@@ -1,4 +1,4 @@
-# Exposys
+# Exposys Data labs -- Internship Project
 Triple DES Encryption
 # ENCRYPTION OF IMAGE USING TRIPLE DES
 
